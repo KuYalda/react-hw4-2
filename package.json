@@ -1,11 +1,13 @@
 {
-  "name": "module-05",
+  "name": "React_Homework_4.2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
+    "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -46,5 +48,5 @@
     "lint-staged": "^9.4.3",
     "prettier": "^1.19.1"
   },
-  "homepage": "https://kuyalda.github.io/goit-fe-course/react/"
+  "homepage": "https://github.com/KuYalda/react-hw4-2"
 }
