@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b39c66b5d8c732b85c96f29b08d4c96b",
+    "revision": "11fe5d2376a0732dfc4599b3f312a9c7",
     "url": "/KuYalda/react-hw4-2/index.html"
   },
   {
-    "revision": "6b0784c85ca61ff0a686",
+    "revision": "aa0848d10e83a4210fce",
     "url": "/KuYalda/react-hw4-2/static/css/main.c7ab62b3.chunk.css"
   },
   {
-    "revision": "7c8c1b2062491d3db7e7",
-    "url": "/KuYalda/react-hw4-2/static/js/2.34a28090.chunk.js"
+    "revision": "fca956372bda8796bc4e",
+    "url": "/KuYalda/react-hw4-2/static/js/2.1d4b5805.chunk.js"
   },
   {
-    "revision": "6b0784c85ca61ff0a686",
-    "url": "/KuYalda/react-hw4-2/static/js/main.0dc4ea72.chunk.js"
+    "revision": "aa0848d10e83a4210fce",
+    "url": "/KuYalda/react-hw4-2/static/js/main.044c488b.chunk.js"
   },
   {
     "revision": "581f9470ac4f51e58fb2",

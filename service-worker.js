@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KuYalda/react-hw4-2/precache-manifest.c672982d4994bc9fa716019ace9d3d96.js"
+  "/KuYalda/react-hw4-2/precache-manifest.ac33a91052ca914a3bd1cb97f50a0d20.js"
 );
 
 self.addEventListener('message', (event) => {

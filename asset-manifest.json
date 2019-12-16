@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/KuYalda/react-hw4-2/static/css/main.c7ab62b3.chunk.css",
-    "main.js": "/KuYalda/react-hw4-2/static/js/main.0dc4ea72.chunk.js",
-    "main.js.map": "/KuYalda/react-hw4-2/static/js/main.0dc4ea72.chunk.js.map",
+    "main.js": "/KuYalda/react-hw4-2/static/js/main.044c488b.chunk.js",
+    "main.js.map": "/KuYalda/react-hw4-2/static/js/main.044c488b.chunk.js.map",
     "runtime-main.js": "/KuYalda/react-hw4-2/static/js/runtime-main.a24c5153.js",
     "runtime-main.js.map": "/KuYalda/react-hw4-2/static/js/runtime-main.a24c5153.js.map",
-    "static/js/2.34a28090.chunk.js": "/KuYalda/react-hw4-2/static/js/2.34a28090.chunk.js",
-    "static/js/2.34a28090.chunk.js.map": "/KuYalda/react-hw4-2/static/js/2.34a28090.chunk.js.map",
+    "static/js/2.1d4b5805.chunk.js": "/KuYalda/react-hw4-2/static/js/2.1d4b5805.chunk.js",
+    "static/js/2.1d4b5805.chunk.js.map": "/KuYalda/react-hw4-2/static/js/2.1d4b5805.chunk.js.map",
     "index.html": "/KuYalda/react-hw4-2/index.html",
-    "precache-manifest.c672982d4994bc9fa716019ace9d3d96.js": "/KuYalda/react-hw4-2/precache-manifest.c672982d4994bc9fa716019ace9d3d96.js",
+    "precache-manifest.ac33a91052ca914a3bd1cb97f50a0d20.js": "/KuYalda/react-hw4-2/precache-manifest.ac33a91052ca914a3bd1cb97f50a0d20.js",
     "service-worker.js": "/KuYalda/react-hw4-2/service-worker.js",
     "static/css/main.c7ab62b3.chunk.css.map": "/KuYalda/react-hw4-2/static/css/main.c7ab62b3.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a24c5153.js",
-    "static/js/2.34a28090.chunk.js",
+    "static/js/2.1d4b5805.chunk.js",
     "static/css/main.c7ab62b3.chunk.css",
-    "static/js/main.0dc4ea72.chunk.js"
+    "static/js/main.044c488b.chunk.js"
   ]
 }
